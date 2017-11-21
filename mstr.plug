@@ -1,0 +1,14 @@
+[Core]
+name = MSTR
+module = mstr
+
+[Documentation]
+description = This plugins allows to interact with a MSTR project
+
+[Python]
+version = 3
+
+[Errbot]
+min = 5.1.3
+max = 5.1.3
+
